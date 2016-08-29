@@ -1,0 +1,1 @@
+# android_device_DialogOptima_TC_A7
